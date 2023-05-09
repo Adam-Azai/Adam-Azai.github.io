@@ -11,7 +11,7 @@ html {
 .grid{
   display: grid;
   grid-template-columns: repeat(4, 2fr);
-  margin-left: 10rem;
+  margin: auto;
   column-gap: 2rem;
 }
 .icon {
